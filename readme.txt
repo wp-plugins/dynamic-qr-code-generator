@@ -16,8 +16,8 @@ Generate QR code for every page, post or whole Wordpress site. Share Smartly.
 
 = Key Feratures: =
 
-*Easy install
-*Very easy to configure.
+* Easy install
+* Very easy to configure.
 
 = Rate us/ Feedback: =
 
