@@ -14,16 +14,16 @@ Generate QR code for every page, post or whole Wordpress site. Share Smartly.
 
 (Quick Response code) A two-dimensional bar code that is widely used to cause a Web page to download into the user's smartphone when scanned with a mobile tagging app. 'Dyanomic QR Code Generator by codemire' plugin generate qr code for each and every page, post and site url . Its easy to use from your sidebars. No setting up needed just plug and play.
 
-=Key Feratures:=
+= Key Feratures: =
 
 *Easy install
 *Very easy to configure.
 
-=Rate us/ Feedback:=
+= Rate us/ Feedback: =
 
 Please take the time to let us and others know about your experiences by leaving a review, so that we can improve the plugin for you and other users.
 
-=Need More?=
+= Need More? =
 Please contact us if you need custom features or any other things.
 
 == Installation ==
@@ -41,7 +41,7 @@ Yes! and always will be.
 =Is this Ad-free?=
 Yes. 100% Ad-free.
 
-=Can I use it commercialy?=
+= Can I use it commercialy? =
 Yes! You are always free to use coomercially.
 
 
